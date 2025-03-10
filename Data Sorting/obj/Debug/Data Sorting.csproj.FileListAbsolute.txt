@@ -1,0 +1,10 @@
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\Data Sorting\bin\Debug\Data Sorting.exe.config
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\Data Sorting\bin\Debug\Data Sorting.exe
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\Data Sorting\bin\Debug\Data Sorting.pdb
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\Data Sorting\obj\Debug\Data Sorting.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\Data Sorting\obj\Debug\Data_Sorting.Form1.resources
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\Data Sorting\obj\Debug\Data_Sorting.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\Data Sorting\obj\Debug\Data Sorting.csproj.GenerateResource.cache
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\Data Sorting\obj\Debug\Data Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\Data Sorting\obj\Debug\Data Sorting.exe
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\Data Sorting\obj\Debug\Data Sorting.pdb

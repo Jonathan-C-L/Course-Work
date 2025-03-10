@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jonathan\\Desktop\\GitHub\\cmpe1666-1242a02-Jonathan-C-L\\icas\\ICA4 Jonathan Le\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45C9E9C1-1B1C-4CFE-B781-BCCCE9B5CF67}|ICA4 Jonathan Le\\ICA4 Jonathan Le.csproj|C:\\Users\\Jonathan\\Desktop\\GitHub\\cmpe1666-1242a02-Jonathan-C-L\\icas\\ICA4 Jonathan Le\\ica4 jonathan le\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C9E9C1-1B1C-4CFE-B781-BCCCE9B5CF67}|ICA4 Jonathan Le\\ICA4 Jonathan Le.csproj|solutionrelative:ica4 jonathan le\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C9E9C1-1B1C-4CFE-B781-BCCCE9B5CF67}|ICA4 Jonathan Le\\ICA4 Jonathan Le.csproj|c:\\users\\jonathan\\desktop\\github\\cmpe1666-1242a02-jonathan-c-l\\icas\\ica4 jonathan le\\ica4 jonathan le\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45C9E9C1-1B1C-4CFE-B781-BCCCE9B5CF67}|ICA4 Jonathan Le\\ICA4 Jonathan Le.csproj|solutionrelative:ica4 jonathan le\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\GitHub\\cmpe1666-1242a02-Jonathan-C-L\\icas\\ICA4 Jonathan Le\\ICA4 Jonathan Le\\Form1.cs",
+              "RelativeDocumentMoniker": "ICA4 Jonathan Le\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\GitHub\\cmpe1666-1242a02-Jonathan-C-L\\icas\\ICA4 Jonathan Le\\ICA4 Jonathan Le\\Form1.cs [Design]",
+              "RelativeToolTip": "ICA4 Jonathan Le\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:31:23.861Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\GitHub\\cmpe1666-1242a02-Jonathan-C-L\\icas\\ICA4 Jonathan Le\\ICA4 Jonathan Le\\Form1.cs",
+              "RelativeDocumentMoniker": "ICA4 Jonathan Le\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\GitHub\\cmpe1666-1242a02-Jonathan-C-L\\icas\\ICA4 Jonathan Le\\ICA4 Jonathan Le\\Form1.cs",
+              "RelativeToolTip": "ICA4 Jonathan Le\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:31:35.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
