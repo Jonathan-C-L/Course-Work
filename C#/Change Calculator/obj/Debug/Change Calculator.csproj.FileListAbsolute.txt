@@ -1,0 +1,16 @@
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\CMPE 1666 Lab 1\CMPE 1666 Lab 1\bin\Debug\Change Calculator.exe.config
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\CMPE 1666 Lab 1\CMPE 1666 Lab 1\bin\Debug\Change Calculator.exe
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\CMPE 1666 Lab 1\CMPE 1666 Lab 1\bin\Debug\Change Calculator.pdb
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\Change Calculator.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\Change Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\Change C.FFF47316.Up2Date
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\Change Calculator.exe
+C:\Users\Jonathan\Desktop\GitHub\Course-Work\CMPE 1666 Lab 1\CMPE 1666 Lab 1\obj\Debug\Change Calculator.pdb
+C:\Users\Jonathan\Desktop\GitHub\Change Calculator (Bugged)\bin\Debug\Change Calculator.exe.config
+C:\Users\Jonathan\Desktop\GitHub\Change Calculator (Bugged)\bin\Debug\Change Calculator.exe
+C:\Users\Jonathan\Desktop\GitHub\Change Calculator (Bugged)\bin\Debug\Change Calculator.pdb
+C:\Users\Jonathan\Desktop\GitHub\Change Calculator (Bugged)\obj\Debug\Change Calculator.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\GitHub\Change Calculator (Bugged)\obj\Debug\Change Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\GitHub\Change Calculator (Bugged)\obj\Debug\Change C.FFF47316.Up2Date
+C:\Users\Jonathan\Desktop\GitHub\Change Calculator (Bugged)\obj\Debug\Change Calculator.exe
+C:\Users\Jonathan\Desktop\GitHub\Change Calculator (Bugged)\obj\Debug\Change Calculator.pdb
